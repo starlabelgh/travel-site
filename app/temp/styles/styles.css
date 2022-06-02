@@ -543,3 +543,13 @@ img {
   padding-right: 65px;
   box-sizing: border-box;
 }
+
+.no-top-margin {
+  margin-top: 0%;
+}
+
+.generic-content-container {
+  line-height: 1.65;
+  font-size: 1.0rem;
+  margin: 1.8rem 0;
+}
